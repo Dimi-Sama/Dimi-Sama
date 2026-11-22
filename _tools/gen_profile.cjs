@@ -80,6 +80,7 @@ function typing() {
     "> Je libère des jeux d'arcade de leur borne.",
     "> Je transforme des données en recommandations.",
     "> Création 3D, homelab, et beaucoup trop d'anime.",
+    "> Fan de JRPG & d'animes // JRPG & anime fan",
   ];
   const slot = 5.2, total = lines.length * slot, cw = 12.2;
   const W = 900, H = 52;
@@ -94,7 +95,7 @@ function typing() {
 <rect x="28" y="14" width="10" height="24" fill="${C.yellow}" opacity="0"><animate attributeName="x" values="28;28;${28 + tw};${28 + tw};28;28" keyTimes="${kt([0, a, tIn, tHold, tOut, 1])}" dur="${total}s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="${kt([0, a + 0.001, tHold, Math.min(1, tHold + 0.01), 1])}" dur="${total}s" repeatCount="indefinite"/></rect>
 </g>`;
   });
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Développeur d'applications en route vers la Data et IA. Je libère des jeux d'arcade de leur borne. Je transforme des données en recommandations. Création 3D, homelab et beaucoup trop d'anime.">
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Développeur d'applications en route vers la Data et IA. Je libère des jeux d'arcade de leur borne. Je transforme des données en recommandations. Création 3D, homelab et beaucoup trop d'anime. Fan de JRPG et d'animes.">
 <rect width="${W}" height="${H}" rx="4" fill="${C.bg}" stroke="${C.blue}" stroke-opacity=".55"/>
 <text x="8" y="33" font-family="${MONO}" font-size="20" fill="${C.cyan}">$</text>
 ${body}</svg>`;

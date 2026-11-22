@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="DIMI-SAMA — netrunner, Data et IA, développeur d'applications" width="100%">
 
-<img src="assets/typing.svg" alt="Développeur d'applications en route vers la Data et IA. Je libère des jeux d'arcade de leur borne. Je transforme des données en recommandations. Création 3D, homelab et beaucoup trop d'anime." width="100%">
+<img src="assets/typing.svg" alt="Développeur d'applications en route vers la Data et IA. Je libère des jeux d'arcade de leur borne. Je transforme des données en recommandations. Création 3D, homelab. Fan de JRPG et d'animes." width="100%">
 
 </div>
 
@@ -20,14 +20,18 @@
 </td>
 <td width="62%" valign="top">
 
-### Salut choom, bienvenue dans ma zone.
+### Salut choom, bienvenue dans ma zone. · Hey choom, welcome to my zone.
 
-Ici on parle d'**univers** et de **projets** : de la data qui recommande, des jeux qu'on libère de leur borne, un homelab qui ronronne, de la 3D sous Blender et beaucoup (trop) d'anime.
+**FR** — Ici on parle d'**univers** et de **projets** : de la data qui recommande, des jeux qu'on libère de leur borne, un homelab qui ronronne et de la 3D sous Blender.
+Fan de **JRPG** (*Xenoblade*, *Fire Emblem*, *Final Fantasy*, *Persona*) et d'**animes** (*Steins;Gate*, *86*, *Fate/Zero*, *Gurren Lagann*)… et de bien d'autres, parce que j'adore les jeux et les animes.
+
+**EN** — Here it's all about **worlds** and **projects**: data that recommends, games freed from their arcade cabinets, a humming homelab and 3D work in Blender.
+**JRPG** fan (*Xenoblade*, *Fire Emblem*, *Final Fantasy*, *Persona*) and **anime** fan (*Steins;Gate*, *86*, *Fate/Zero*, *Gurren Lagann*)… and plenty more, because I simply love games and anime.
 
 > *Dans cette ville, tout le monde vend des données. Moi, je les fais parler.*
+> *In this city, everyone sells data. I make it talk.*
 
-Aussi connu sous le nom de **ShikiKaizer_** sur
-[X](https://x.com/ShikiKaizer_) · [Instagram](https://www.instagram.com/ShikiKaizer_/) · [TikTok](https://www.tiktok.com/@ShikiKaizer_)
+Aussi connu sous le nom de · Also known as **ShikiKaizer_** — [X](https://x.com/ShikiKaizer_) · [Instagram](https://www.instagram.com/ShikiKaizer_/) · [TikTok](https://www.tiktok.com/@ShikiKaizer_)
 
 </td>
 </tr>
