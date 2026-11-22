@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 52" width="900" height="52" role="img" aria-label="Développeur d'applications en route vers la Data et IA. Je libère des jeux d'arcade de leur borne. Je transforme des données en recommandations. Création 3D, homelab et beaucoup trop d'anime.">
+<rect width="900" height="52" rx="4" fill="#04060E" stroke="#1F7BFF" stroke-opacity=".55"/>
+<text x="8" y="33" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="20" fill="#00D0FF">$</text>
+<g>
+<clipPath id="c0"><rect x="28" y="0" width="0" height="52"><animate attributeName="width" values="0;0;687;687;0;0" keyTimes="0;0;0.07;0.215;0.25;1" dur="20.8s" repeatCount="indefinite"/></rect></clipPath>
+<text x="28" y="33" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="20" fill="#BFE3FF" clip-path="url(#c0)" textLength="683" lengthAdjust="spacing">&gt; Développeur d'applications en route vers la Data &amp; IA_</text>
+<rect x="28" y="14" width="10" height="24" fill="#FCEE0A" opacity="0"><animate attributeName="x" values="28;28;711;711;28;28" keyTimes="0;0;0.07;0.215;0.25;1" dur="20.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.001;0.215;0.225;1" dur="20.8s" repeatCount="indefinite"/></rect>
+</g><g>
+<clipPath id="c1"><rect x="28" y="0" width="0" height="52"><animate attributeName="width" values="0;0;541;541;0;0" keyTimes="0;0.25;0.32;0.465;0.5;1" dur="20.8s" repeatCount="indefinite"/></rect></clipPath>
+<text x="28" y="33" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="20" fill="#BFE3FF" clip-path="url(#c1)" textLength="537" lengthAdjust="spacing">&gt; Je libère des jeux d'arcade de leur borne.</text>
+<rect x="28" y="14" width="10" height="24" fill="#FCEE0A" opacity="0"><animate attributeName="x" values="28;28;565;565;28;28" keyTimes="0;0.25;0.32;0.465;0.5;1" dur="20.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.251;0.465;0.475;1" dur="20.8s" repeatCount="indefinite"/></rect>
+</g><g>
+<clipPath id="c2"><rect x="28" y="0" width="0" height="52"><animate attributeName="width" values="0;0;577;577;0;0" keyTimes="0;0.5;0.57;0.715;0.75;1" dur="20.8s" repeatCount="indefinite"/></rect></clipPath>
+<text x="28" y="33" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="20" fill="#BFE3FF" clip-path="url(#c2)" textLength="573" lengthAdjust="spacing">&gt; Je transforme des données en recommandations.</text>
+<rect x="28" y="14" width="10" height="24" fill="#FCEE0A" opacity="0"><animate attributeName="x" values="28;28;601;601;28;28" keyTimes="0;0.5;0.57;0.715;0.75;1" dur="20.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.501;0.715;0.725;1" dur="20.8s" repeatCount="indefinite"/></rect>
+</g><g>
+<clipPath id="c3"><rect x="28" y="0" width="0" height="52"><animate attributeName="width" values="0;0;602;602;0;0" keyTimes="0;0.75;0.82;0.965;1;1" dur="20.8s" repeatCount="indefinite"/></rect></clipPath>
+<text x="28" y="33" font-family="Consolas, 'Cascadia Mono', 'Courier New', monospace" font-size="20" fill="#BFE3FF" clip-path="url(#c3)" textLength="598" lengthAdjust="spacing">&gt; Création 3D, homelab, et beaucoup trop d'anime.</text>
+<rect x="28" y="14" width="10" height="24" fill="#FCEE0A" opacity="0"><animate attributeName="x" values="28;28;626;626;28;28" keyTimes="0;0.75;0.82;0.965;1;1" dur="20.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.751;0.965;0.975;1" dur="20.8s" repeatCount="indefinite"/></rect>
+</g></svg>
