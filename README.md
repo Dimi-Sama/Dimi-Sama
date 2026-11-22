@@ -65,20 +65,7 @@ Aussi connu sous le nom de · Also known as **ShikiKaizer_** — [X (@11cherxn_)
 
 <br>
 
-<div align="center"><img src="assets/h-04-trace.svg" alt="04 — TRACE" width="100%"></div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dimi-Sama/Dimi-Sama/output/snake-dark.svg">
-  <img alt="Serpent qui mange mes contributions GitHub" src="https://raw.githubusercontent.com/Dimi-Sama/Dimi-Sama/output/snake.svg" width="100%">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center"><img src="assets/h-05-acces.svg" alt="05 — ACCÈS" width="100%"></div>
+<div align="center"><img src="assets/h-04-acces.svg" alt="04 — ACCÈS" width="100%"></div>
 
 <details>
 <summary><b>▸ ACCÈS RESTREINT — clique pour pirater le terminal</b></summary>
