@@ -31,7 +31,7 @@ Fan de **JRPG** (*Xenoblade*, *Fire Emblem*, *Final Fantasy*, *Persona*) et d'**
 > *Dans cette ville, tout le monde vend des données. Moi, je les fais parler.*
 > *In this city, everyone sells data. I make it talk.*
 
-Aussi connu sous le nom de · Also known as **ShikiKaizer_** — [X](https://x.com/ShikiKaizer_) · [Instagram](https://www.instagram.com/ShikiKaizer_/) · [TikTok](https://www.tiktok.com/@ShikiKaizer_)
+Aussi connu sous le nom de · Also known as **ShikiKaizer_** — [X (@11cherxn_)](https://x.com/11cherxn_) · [Instagram](https://www.instagram.com/ShikiKaizer_/) · [TikTok](https://www.tiktok.com/@ShikiKaizer_)
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ Aussi connu sous le nom de · Also known as **ShikiKaizer_** — [X](https://x.c
 
 <img src="assets/divergence.svg" alt="Divergence meter 1.130426 — El Psy Kongroo" width="480">
 
-**ShikiKaizer_** sur **[X](https://x.com/ShikiKaizer_)** &nbsp;·&nbsp; **[Instagram](https://www.instagram.com/ShikiKaizer_/)** &nbsp;·&nbsp; **[TikTok](https://www.tiktok.com/@ShikiKaizer_)**
+**ShikiKaizer_** sur **[X (@11cherxn_)](https://x.com/11cherxn_)** &nbsp;·&nbsp; **[Instagram](https://www.instagram.com/ShikiKaizer_/)** &nbsp;·&nbsp; **[TikTok](https://www.tiktok.com/@ShikiKaizer_)**
 
 **🐙 [Open Games Awards](https://github.com/Dimi-Sama/open-games-awards)**
 
