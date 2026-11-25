@@ -51,11 +51,11 @@ Aussi connu sous le nom de · Also known as **ShikiKaizer_** — [X (@11cherxn_)
 
 <div align="center">
 
-<a href="https://github.com/Dimi-Sama/open-games-awards"><img src="assets/card-1-oga.svg" alt="Open Games Awards : vote, dashboard, recommandations IA et profils de joueurs. En ligne." width="49%"></a> <img src="assets/card-2-fgo.svg" alt="FGO Arcade Portable : libérer un jeu d'arcade de sa borne. Dépôt privé." width="49%"> <img src="assets/card-3-orbitals.svg" alt="Orbitals PC : un jeu Switch 2 en natif sur PC. Dépôt privé." width="49%"> <img src="assets/card-4-homelab.svg" alt="Homelab : un NAS et un serveur Debian, accès distant chiffré, tout automatisé." width="49%">
+<a href="https://github.com/Dimi-Sama/open-games-awards"><img src="assets/card-1-oga.svg" alt="Open Games Awards : vote, dashboard, recommandations IA et profils de joueurs. En ligne." width="49%"></a> <img src="assets/card-2-fgo.svg" alt="FGO Arcade Portable : libérer un jeu d'arcade de sa borne. Dépôt privé." width="49%"> <a href="https://github.com/Dimi-Sama/OrbitalsPCRecomp"><img src="assets/card-3-orbitals.svg" alt="Orbitals PC : un jeu Switch 2 en natif sur PC, sans émulateur. Open source, v0.1.5." width="49%"></a> <img src="assets/card-4-homelab.svg" alt="Homelab : un NAS et un serveur Debian, accès distant chiffré, tout automatisé." width="49%">
 
 </div>
 
-<sub>Les contrats « classifiés » sont des dépôts privés.</sub>
+<sub>Les contrats « classifiés » sont des dépôts privés. Orbitals PC est public : récompense débloquée.</sub>
 
 <br>
 
@@ -78,7 +78,7 @@ Aussi connu sous le nom de · Also known as **ShikiKaizer_** — [X (@11cherxn_)
 
 **ShikiKaizer_** sur **[X (@11cherxn_)](https://x.com/11cherxn_)** &nbsp;·&nbsp; **[Instagram](https://www.instagram.com/ShikiKaizer_/)** &nbsp;·&nbsp; **[TikTok](https://www.tiktok.com/@ShikiKaizer_)**
 
-**🐙 [Open Games Awards](https://github.com/Dimi-Sama/open-games-awards)**
+**🐙 [Open Games Awards](https://github.com/Dimi-Sama/open-games-awards)** &nbsp;·&nbsp; **🚀 [Orbitals PC Recomp](https://github.com/Dimi-Sama/OrbitalsPCRecomp)**
 
 </div>
 
